@@ -12,7 +12,7 @@
 <!-- באדג'ים ליצירת קשר או פרופילים נוספים (אופציונלי) -->
 <p align="center">
   <a href="mailto:your.kataz91@gmail.com">
-    <img src="https://img.shields.io/badge/Email-your.email%40example.com-blue?style=flat-square&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-your.kataz91@gmail.com-blue?style=flat-square&logo=gmail" />
   </a>
   <a href="https://[www.linkedin.com/in/yourLinkedinProfile/](https://www.linkedin.com/in/nart-ramadan-kataz-1a460a164/)">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" />
