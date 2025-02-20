@@ -1,14 +1,28 @@
+<!-- באנר/GIF למעלה -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aCP1mkDHvGFF1Ic/giphy.gif" alt="Welcome!" width="600"/>
+</p>
+
 <h1 align="center">Hello, I'm Nart Ramadan 👋</h1>
 
 <p align="center">
   I'm a Full Stack Developer with experience in Node.js, React, C#, and more...
 </p>
 
+<!-- באדג'ים של יצירת קשר -->
+<p align="center">
+  <a href="mailto:your.kataz91@gmail.com">
+    <img src="https://img.shields.io/badge/Email-YourEmail%40example.com-blue?style=flat-square&logo=gmail" />
+  </a>
+  <a href="https://[www.linkedin.com/in/yourLinkedinProfile/](https://www.linkedin.com/in/nart-ramadan-kataz-1a460a164/)">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" />
+  </a>
+</p>
+
 ---
 
 ## 🛠 Technologies & Tools
 
-<!-- אפשר להשאיר כרשימת נקודות פשוטה: -->
 - Node.js  
 - React  
 - JavaScript  
@@ -17,19 +31,13 @@
 - C#  
 - C++  
 - SQL  
-- And more...
 
-<!-- או להשתמש בבאדג'ים (Badges) במקום רשימת נקודות, לדוגמה: -->
-<!--
+<!-- לחלופין, באדג'ים (שוב, אופציונלי):
 <div align="center">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  ...
 </div>
 -->
 
@@ -38,11 +46,29 @@
 ## 🔥 GitHub Stats
 
 <div align="center">
-  <!-- החלף כאן ל-username האמיתי שלך ב-GitHub -->
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NartRamadan&show_icons=true&theme=radical" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NartRamadan&layout=compact&theme=radical" />
-
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NartRamadan&show_icons=true&theme=radical" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NartRamadan&layout=compact&theme=radical" />
 </div>
+
+<!-- גביעים -->
+<p align="center">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=NartRamadan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
+
+---
+
+## Featured Projects
+
+- [Project One](https://github.com/NartRamadan/ProjectOne) - A cool Node.js/React project for ...
+- [Project Two](https://github.com/NartRamadan/ProjectTwo) - A C# application that ...
+- ...
+
+---
+
+<!-- מונה מבקרים -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NartRamadan&color=blue&style=flat-square" alt="Profile Views" />
+</p>
 
 ---
 
