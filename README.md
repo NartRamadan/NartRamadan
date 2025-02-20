@@ -39,8 +39,9 @@
 
 <div align="center">
   <!-- החלף כאן ל-username האמיתי שלך ב-GitHub -->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Your_GitHub_Username&show_icons=true&theme=radical" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Your_GitHub_Username&layout=compact&theme=radical" />
+ <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NartRamadan&show_icons=true&theme=radical" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NartRamadan&layout=compact&theme=radical" />
+
 </div>
 
 ---
