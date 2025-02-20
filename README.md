@@ -11,10 +11,10 @@
 
 <!-- באדג'ים ליצירת קשר או פרופילים נוספים (אופציונלי) -->
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:your.kataz91@gmail.com">
     <img src="https://img.shields.io/badge/Email-your.email%40example.com-blue?style=flat-square&logo=gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/yourLinkedinProfile/">
+  <a href="https://[www.linkedin.com/in/yourLinkedinProfile/](https://www.linkedin.com/in/nart-ramadan-kataz-1a460a164/)">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" />
   </a>
 </p>
@@ -48,13 +48,12 @@
 ---
 
 <!-- אפשר להוסיף גביעים (Trophies) -->
-<!--
+
 ## 🏆 GitHub Profile Trophy
 
 <div align="center">
   [![trophy](https://github-profile-trophy.vercel.app/?username=NartRamadan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
--->
 
 ## 📌 Featured Projects
 - [Project One](https://github.com/NartRamadan/ProjectOne) - A cool Node.js/React project for ...
