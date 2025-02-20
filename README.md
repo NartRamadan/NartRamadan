@@ -17,9 +17,6 @@
   <a href="https://www.linkedin.com/in/yourLinkedinProfile/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" />
   </a>
-  <a href="https://your-portfolio-website.com">
-    <img src="https://img.shields.io/badge/Website-Portfolio-blue?style=flat-square&logo=google-chrome" />
-  </a>
 </p>
 
 ---
